@@ -1,0 +1,80 @@
+.user {
+    float: right;
+}
+
+.video {
+    margin-top: 20px;
+}
+
+.name {
+    margin-top: 15px;
+}
+
+.image {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.you {
+    width: 50px;
+}
+
+.logo {
+    margin-right: 650px;
+}
+
+.come {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background-image: radial-gradient(rgb(189, 70, 70), rgb(170, 145, 145));
+    margin: 5px;
+}
+
+.author {
+    margin: 10px;
+    display: flex;
+    background-color: #ccc;
+    border-radius: 4px;
+}
+
+.details {
+    margin-left: 30px;
+}
+
+.video-details {
+    background: #999;
+    color: #fff;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+    padding: 10px 0 0 5px;
+}
+
+.views {
+    border-right: 1px solid;
+    padding-right: 4px;
+    padding-left: 4px;
+}
+
+.views .icon {
+    font-size: 16px;
+}
+
+.views .text {
+    font-size: 12px;
+    padding-right: 4px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.next-btn{
+    margin: 10px;
+    float: right;
+}
